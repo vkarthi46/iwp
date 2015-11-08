@@ -1,4 +1,4 @@
-# Created by @ajantriks for India Water Portal
+# Created by @karhi for India Water Portal
 # Shared under Attribution-ShareAlike Unported license
 # Details: <http://ajantriks.github.io/iwp/drought_maps.html>
 
