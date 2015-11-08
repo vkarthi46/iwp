@@ -1,6 +1,6 @@
 # Created by @karhi for India Water Portal
 # Shared under Attribution-ShareAlike Unported license
-# Details: <http://ajantriks.github.io/iwp/drought_maps.html>
+
 
 # Opening the first IMD rainfall data spreadsheet file (pre-converted to .csv format)
 d <- read.csv ("imd_states_1-10.csv")
